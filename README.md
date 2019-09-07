@@ -6,8 +6,7 @@
 
 
 ## Part A. Set Up a Breadboard
-![Breadboard Setup]()
-<img src="https://github.com/BenKadosh1/IDD-Fa19-Lab1/blob/master/IDD_Fa19_Lab1_Img1.jpg" width=125 height=125>
+<img src="https://github.com/BenKadosh1/IDD-Fa19-Lab1/blob/master/IDD_Fa19_Lab1_Img1.jpg" width=200 height=200>
 
 ## Part B. Manually Blink a LED
 
