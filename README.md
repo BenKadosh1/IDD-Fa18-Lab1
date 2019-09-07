@@ -3,6 +3,8 @@
 **A lab report by Ben Kadosh**
 
 
+
+
 ## Part A. Set Up a Breadboard
 
 [insert a photo of your breadboard setup here]
