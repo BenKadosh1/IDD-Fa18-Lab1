@@ -13,6 +13,7 @@ The left and right sides of the breadboard were not connected for simplicity dur
 ## Part B. Manually Blink a LED
 
 **a. What color stripes are on a 100 Ohm resistor?**
+
 On a 100 ohm resistor, the color stripes would be: 
  - Brown (1st band)
  - Black (2nd band)
