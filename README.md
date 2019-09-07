@@ -19,7 +19,7 @@ On a 100 ohm resistor, the color stripes would be:
  - Black (2nd band)
  - Brown (3rd band)
 
-This leads to values of 1, 0 (10) for the first two bands times a multiplier of 10 for the third band resulting in 100 ohm resistance. Depending on the quality of the resistor, the tolerance will vary and therefore the fourth band could be brown, red, gold, silver. 
+This leads to values of 1, 0 (10) for the first two bands times a multiplier of 10 for the third band resulting in 100 ohm resistance. Depending on the quality of the resistor, the tolerance will vary and therefore the fourth band could be a series of different colors. 
 
 For the 220 ohm resistors we used in lab 1, the color stripes were: 
  - Red (1st band)
@@ -28,7 +28,7 @@ For the 220 ohm resistors we used in lab 1, the color stripes were:
  - Black (4th band)
  - Brown (5th band)
 
-This leads to values of 2, 2, 0, 0  (220) for the first three bands times a multiplier band of 1 for the fourth band resulting in 220 ohm resistance. The resistor had a tolerance of +/- 1%.  
+This leads to values of 2, 2, 0, 0  (220) for the first three bands times a multiplier band of 1 for the fourth band, resulting in 220 ohm resistance. The resistor had a tolerance of +/- 1%.  
  
 **b. What do you have to do to light your LED?**
 
