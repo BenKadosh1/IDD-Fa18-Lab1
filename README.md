@@ -64,24 +64,6 @@ At around 10 milliseconds --> delay(10) I was no longer able to perceive the LED
 
 **Make a video of your LED blinking, and add it to your lab submission.**
 
-[link to your video here; feel free to upload to youtube and just paste in a link here]
-
-// the setup function runs once when you press reset or power the board
-void setup() {
-  // initialize digital pin LED_BUILTIN as an output.
-  Serial.begin(9600);
-  Serial.println(LED_BUILTIN);
-  pinMode(9, OUTPUT);
-}
-
-// the loop function runs over and over again forever
-void loop() {
-  digitalWrite(9, HIGH);   // turn the LED on (HIGH is the voltage level)
-  delay(1000);                       // wait for a second
-  digitalWrite(9, LOW);    // turn the LED off by making the voltage LOW
-  delay(1000);                       // wait for a second
-}
-
 
 ## Part D. Manually fade an LED
 
