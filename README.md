@@ -8,6 +8,8 @@
 ## Part A. Set Up a Breadboard
 <img src="https://github.com/BenKadosh1/IDD-Fa19-Lab1/blob/master/IDD_Fa19_Lab1_Img1.jpg" width=450 height=450>
 
+The left and right sides of the breadboard were not connected for simplicity during this lab.
+
 ## Part B. Manually Blink a LED
 
 **a. What color stripes are on a 100 Ohm resistor?**
@@ -18,7 +20,14 @@ On a 100 ohm resistor, the color stripes would be:
 
 This leads to values of 1, 0 (10) for the first two bands times a multiplier of 10 for the third band resulting in 100 ohm resistance. Depending on the quality of the resistor, the tolerance will vary and therefore the fourth band could be brown, red, gold, silver. 
 
-For the 220 ohm resistors we used in lab 1, 
+For the 220 ohm resistors we used in lab 1, the color stripes were: 
+ - Red (1st band)
+ - Red (2nd band)
+ - Black (3rd band)
+ - Black (4th band)
+ - Brown (5th band)
+
+This leads to values of 2, 2, 0, 0  (220) for the first three bands times a multiplier band of 1 for the fourth band resulting in 220 ohm resistance. The resistor had a tolerance of +/- 1%.  
  
 **b. What do you have to do to light your LED?**
 
