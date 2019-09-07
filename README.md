@@ -31,6 +31,7 @@ We've copied the questions from the lab here. Answer them below!
 **c. What circuit element would you want to add to protect the board and external LED?**
  
 **d. At what delay can you no longer *perceive* the LED blinking? How can you prove to yourself that it is, in fact, still blinking?**
+Around 10
 
 **e. Modify the code to make your LED blink your way. Save your new blink code to your lab 1 repository, with a link on the README.md.**
 
@@ -40,6 +41,22 @@ We've copied the questions from the lab here. Answer them below!
 **Make a video of your LED blinking, and add it to your lab submission.**
 
 [link to your video here; feel free to upload to youtube and just paste in a link here]
+
+// the setup function runs once when you press reset or power the board
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  Serial.begin(9600);
+  Serial.println(LED_BUILTIN);
+  pinMode(9, OUTPUT);
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(9, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(1000);                       // wait for a second
+  digitalWrite(9, LOW);    // turn the LED off by making the voltage LOW
+  delay(1000);                       // wait for a second
+}
 
 
 ## Part D. Manually fade an LED
