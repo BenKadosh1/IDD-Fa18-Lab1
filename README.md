@@ -44,7 +44,7 @@ In part b of the lab, in order to get the LED to light up we physically had to p
 
 **a. What line(s) of code do you need to change to make the LED blink (like, at all)?**
 
-
+No lines of code need to be changed to make the LED blink. 
 
 **b. What line(s) of code do you need to change to change the rate of blinking?**
 
