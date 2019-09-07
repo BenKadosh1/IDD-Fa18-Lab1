@@ -11,6 +11,14 @@
 ## Part B. Manually Blink a LED
 
 **a. What color stripes are on a 100 Ohm resistor?**
+On a 100 ohm resistor, the color stripes would be: 
+ - Brown (1st band)
+ - Black (2nd band)
+ - Brown (3rd band)
+
+This leads to values of 1, 0 (10) for the first two bands times a multiplier of 10 for the third band resulting in 100 ohm resistance. Depending on the quality of the resistor, the tolerance will vary and therefore the fourth band could be brown, red, gold, silver. 
+
+For the 220 ohm resistors we used in lab 1, 
  
 **b. What do you have to do to light your LED?**
 
