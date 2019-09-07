@@ -32,6 +32,10 @@ This leads to values of 2, 2, 0, 0  (220) for the first three bands times a mult
  
 **b. What do you have to do to light your LED?**
 
+In part b of the lab, in order to get the LED to light up we physically had to press the button to close the circuit. In my case, I had to press the buttion to connect the electrical flow from row 22 to row 24 by pushing the button and closing the circuit. 
+
+
+
 
 ## Part C. Blink a LED using Arduino
 
