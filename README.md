@@ -44,14 +44,17 @@ In part b of the lab, in order to get the LED to light up we physically had to p
 
 **a. What line(s) of code do you need to change to make the LED blink (like, at all)?**
 
-No lines of code need to be changed to make the LED blink. 
+No lines of code need to be changed to make the LED blink. This assumes that there is a wire inserted in the proper digital pin and that it is also connected to the LED in the breadboard. 
 
 **b. What line(s) of code do you need to change to change the rate of blinking?**
+
+In order to change the rate of blinking, we need to update the "delay(1000)" lines of code found in rows 34 and 36 of the built-in sample in the Arduino IDE. By changing the delay variable we can increase or decrease how much time there is between the LED light being turned on and off and thus the rate of blinking. 
 
 **c. What circuit element would you want to add to protect the board and external LED?**
  
 **d. At what delay can you no longer *perceive* the LED blinking? How can you prove to yourself that it is, in fact, still blinking?**
-Around 10
+
+At around 10 milliseconds --> delay(10) I was no longer able to perceive the LED blinking. 
 
 **e. Modify the code to make your LED blink your way. Save your new blink code to your lab 1 repository, with a link on the README.md.**
 
