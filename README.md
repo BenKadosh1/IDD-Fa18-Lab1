@@ -118,4 +118,3 @@ Conversely, digitalWrite can take only one of two states, HIGH/LOW, on/off where
 [FRANKENLIGHT Youtube Link](https://youtu.be/rbTNpvqswfo)
 
 
-**Include any schematics or photos in your lab write-up.**
