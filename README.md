@@ -60,7 +60,6 @@ At around 10 milliseconds --> delay(10) I was no longer able to perceive the LED
 
 \
 [Modified Blink Code](https://github.com/BenKadosh1/IDD-Fa19-Lab1/blob/master/Blink_Ben_Kadosh.ino)
-\
 
 ### 2. Blink your LED
 
