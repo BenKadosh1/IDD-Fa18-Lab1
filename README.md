@@ -87,6 +87,9 @@ int fadeAmount = 8;    // how many points to fade the LED by
 
 
 **b. What is analogWrite()? How is that different than digitalWrite()?**
+analogWrite mimics an analog voltage signal in the Arduino. As the lab mentions, "The Arduino cannot output an analog voltage, only 0 or 5Vs." In order to allow users to be able to simulate different voltages being passed to the LED and thus control its percevied brightness, analogWrite uses pulse width modulation to control how frequently the electrical flow is turned on and off in the circuit. 
+
+Conversely, digitalWrite can take only one of two states, HIGH/LOW, on/off where it either passes electricity or it doesn't.
 
 
 ## Part F. FRANKENLIGHT!!!
