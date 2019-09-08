@@ -55,6 +55,7 @@ In order to change the rate of blinking, we need to update the "delay(1000)" lin
 **d. At what delay can you no longer *perceive* the LED blinking? How can you prove to yourself that it is, in fact, still blinking?**
 
 At around 10 milliseconds --> delay(10) I was no longer able to perceive the LED blinking. 
+\
 In order to prove that the LED would still in fact be blinking, one could connect the circuit board to an oscilloscope which would graphically depict the changes in voltage over time, proving that at points there was no electrical flow and that the LED was blinking on and then off for short periods of time. 
 
 **e. Modify the code to make your LED blink your way. Save your new blink code to your lab 1 repository, with a link on the README.md.**
