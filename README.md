@@ -51,6 +51,7 @@ No lines of code need to be changed to make the LED blink. This assumes that the
 In order to change the rate of blinking, we need to update the "delay(1000)" lines of code found in rows 34 and 36 of the built-in sample in the Arduino IDE. By changing the delay variable we can increase or decrease how much time there is between the LED light being turned on and off and thus the rate of blinking. 
 
 **c. What circuit element would you want to add to protect the board and external LED?**
+ I would consider adding a fuse to the circuit in case the current exceeds design and leads to the LED burning out. In addition, we could add a resistor to the circuit to limit the current to ensure it doesn't exceed limits that would cause the LED to stop working. 
  
 **d. At what delay can you no longer *perceive* the LED blinking? How can you prove to yourself that it is, in fact, still blinking?**
 
