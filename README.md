@@ -118,3 +118,7 @@ Conversely, digitalWrite can take only one of two states, HIGH/LOW, on/off where
 [FRANKENLIGHT Youtube Link](https://youtu.be/rbTNpvqswfo)
 
 
+<img src="https://github.com/BenKadosh1/IDD-Fa19-Lab1/blob/master/IDD_Fa19_Lab1_Img4.jpg" width=450 height=450>
+<img src="https://github.com/BenKadosh1/IDD-Fa19-Lab1/blob/master/IDD_Fa19_Lab1_Img5.jpg" width=450 height=450>
+<img src="https://github.com/BenKadosh1/IDD-Fa19-Lab1/blob/master/IDD_Fa19_Lab1_Img6.jpg" width=450 height=450>
+
