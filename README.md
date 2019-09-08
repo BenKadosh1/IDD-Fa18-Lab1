@@ -81,9 +81,9 @@ In order to make the code control the circuit we built, we had to update the led
 \
 In addition, the brightness and fadeAmount variables could be updated to change the fade format.
 
-int led = 11;           // the PWM pin the LED is attached to
-int brightness = 3;    // how bright the LED is
-int fadeAmount = 8;    // how many points to fade the LED by
+int led = 11;  
+int brightness = 3;
+int fadeAmount = 8;
 
 
 **b. What is analogWrite()? How is that different than digitalWrite()?**
