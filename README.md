@@ -83,7 +83,9 @@ In addition, the brightness and fadeAmount variables could be updated to change 
 
 int led = 11  
 int brightness = 3
-int fadeAmount = 8
+int fadeAmount = 8  
+  
+  
 
 
 **b. What is analogWrite()? How is that different than digitalWrite()?**
