@@ -58,12 +58,12 @@ At around 10 milliseconds --> delay(10) I was no longer able to perceive the LED
 
 **e. Modify the code to make your LED blink your way. Save your new blink code to your lab 1 repository, with a link on the README.md.**
 
-\
 [Modified Blink Code](https://github.com/BenKadosh1/IDD-Fa19-Lab1/blob/master/Blink_Ben_Kadosh.ino)
 
 ### 2. Blink your LED
 
 **Make a video of your LED blinking, and add it to your lab submission.**
+\
 [Blinking LED Youtube Link](https://www.youtube.com/watch?v=6ssTY8aDUTY)
 
 ## Part D. Manually fade an LED
