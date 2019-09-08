@@ -82,7 +82,7 @@ In order to make the code control the circuit we built, we had to update the led
 In addition, the brightness and fadeAmount variables could be updated to change the fade format.
 
 int led = 11  
-int brightness = 3
+int brightness = 3 \
 int fadeAmount = 8  
   
   
