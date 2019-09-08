@@ -101,15 +101,31 @@ Conversely, digitalWrite can take only one of two states, HIGH/LOW, on/off where
 
 **a. Is there computation in your device? Where is it? What do you think is happening inside the "computer?"**
 
+It does not appear that there is any computation going on in the divice as it is a phone charger. 
+\
+
 **b. Are there sensors on your device? How do they work? How is the sensed information conveyed to other portions of the device?**
+It does not appear that there are any sensors (motion, temperature, etc.) 
+\
 
 **c. How is the device powered? Is there any transformation or regulation of the power? How is that done? What voltages are used throughout the system?**
 
+The device is powered by connecting it to an electrical socket feeding it 110V AC. It then goes through an AC/DC adaptor which converts the voltage to 7.5V DC. As is stated in the Wikipedia page for Power supply, when converting from AC to DC supply: 
+
+"DC power supplies use AC mains electricity as an energy source. Such power supplies will employ a transformer to convert the input voltage to a higher or lower AC voltage. A rectifier is used to convert the transformer output voltage to a varying DC voltage, which in turn is passed through an electronic filter to convert it to an unregulated DC voltage."
+
+Within the adaptor used, it is assumed there is some combination of transformer, rectifier, electronic filter.
+On the actual circuit board shown, once the 7.5V DC power supply is fed through, there are numerous resistors and several capacitors on the board. 
+
 **d. Is information stored in your device? Where? How?**
+
+It does not appear that information is stored on the device.
 
 ### 2. Using your schematic, figure out where a good point would be to hijack your device and implant an LED.
 
 **Describe what you did here.**
+
+In order to hijack the device I connected two jumper wires to the positive and negative ends of the circuit board and then connected the other ends of the jumper wires to my bread board where I had also inserted the LED light and resistor. Once I plugged the power source into the socket, the electricity was able to flow and light up the LED.  
 
 ### 3. Build your light!
 
