@@ -102,11 +102,11 @@ Conversely, digitalWrite can take only one of two states, HIGH/LOW, on/off where
 **a. Is there computation in your device? Where is it? What do you think is happening inside the "computer?"**
 
 It does not appear that there is any computation going on in the divice as it is a phone charger. 
-\
+
 
 **b. Are there sensors on your device? How do they work? How is the sensed information conveyed to other portions of the device?**
 It does not appear that there are any sensors (motion, temperature, etc.) 
-\
+
 
 **c. How is the device powered? Is there any transformation or regulation of the power? How is that done? What voltages are used throughout the system?**
 
