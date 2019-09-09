@@ -106,7 +106,7 @@ It does not appear that there is any computation going on in the divice as it is
 
 **b. Are there sensors on your device? How do they work? How is the sensed information conveyed to other portions of the device?**
 
-It does not appear that there are any sensors (motion, temperature, etc.) 
+It does not appear that there are any sensors (motion, temperature, etc.) on the device itself, other than where the charger would be connected to an electricity supply. 
 
 
 **c. How is the device powered? Is there any transformation or regulation of the power? How is that done? What voltages are used throughout the system?**
