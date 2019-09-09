@@ -105,6 +105,7 @@ It does not appear that there is any computation going on in the divice as it is
 
 
 **b. Are there sensors on your device? How do they work? How is the sensed information conveyed to other portions of the device?**
+
 It does not appear that there are any sensors (motion, temperature, etc.) 
 
 
