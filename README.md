@@ -101,7 +101,7 @@ Conversely, digitalWrite can take only one of two states, HIGH/LOW, on/off where
 
 **a. Is there computation in your device? Where is it? What do you think is happening inside the "computer?"**
 
-It does not appear that there is any computation going on in the divice as it is a phone charger. 
+There is computation in my divice in the microcontroller in the top left of the device.  
 
 
 **b. Are there sensors on your device? How do they work? How is the sensed information conveyed to other portions of the device?**
@@ -120,7 +120,7 @@ On the actual circuit board shown, once the 7.5V DC power supply is fed through,
 
 **d. Is information stored in your device? Where? How?**
 
-It does not appear that information is stored on the device.
+There is a microcontroller in the device which is most likely storing information as part of its I/O function.
 
 ### 2. Using your schematic, figure out where a good point would be to hijack your device and implant an LED.
 
