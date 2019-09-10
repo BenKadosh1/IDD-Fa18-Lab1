@@ -99,6 +99,9 @@ Conversely, digitalWrite can take only one of two states, HIGH/LOW, on/off where
 
 ### 1. Take apart your electronic device, and draw a schematic of what is inside. 
 
+Schematic:
+<img src="https://github.com/BenKadosh1/IDD-Fa19-Lab1/blob/master/IDD_Fa19_Lab1_Img7.jpg" width=450 height=450>
+
 **a. Is there computation in your device? Where is it? What do you think is happening inside the "computer?"**
 
 There is computation in my divice in the microcontroller in the top left of the device.  
