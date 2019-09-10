@@ -104,7 +104,7 @@ Schematic:
 
 **a. Is there computation in your device? Where is it? What do you think is happening inside the "computer?"**
 
-There is computation in my divice in the microcontroller in the top left of the device.  
+There is computation in my divice in the microcontroller in the top left of the device. It may be possible the microcontroller controls the LED light as well as stores information regarding the charging process. 
 
 
 **b. Are there sensors on your device? How do they work? How is the sensed information conveyed to other portions of the device?**
